@@ -1,6 +1,7 @@
 [
-    {"name": "Hector" , "phone": "555-1212", "age": 23}
-    {"name": "Chars" , "phone": "555-1212", "age": 23}
-    {"name": "Aless" , "phone": "424-6526622", "age": 22}
+    {"name": "Hector" , "phone": "555-1212", "age": 23},
+    {"name": "Chars" , "phone": "555-1212", "age": 23},
+    {"name": "Aless" , "phone": "424-6526622", "age": 22},
     {"name": "Alerds" , "phone": "414-6441464", "age": 21}
 ]
+
